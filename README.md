@@ -1,7 +1,7 @@
 # Building a Multimodal Dataset of Academic Paper for Keyword Extraction
-**This paper constructs a multimodal academic paper dataset for keyword extraction research**
+**This paper constructs a multimodal academic paper dataset for keyword extraction research.**
 ## Overview
-**Data and source Code for the paper: Building a Multimodal Dataset of Academic Paper for Keyword Extraction**
+**Data and source Code for the paper "Building a Multimodal Dataset of Academic Paper for Keyword Extraction".**
 
 Current keyword extraction task typically relies solely on textual data, while neglecting information from other modalities such as image and audio. This leads to deficiencies in information richness and overlooks potential correlations, thereby constraining the model's ability to learn representations of the data and the accuracy of model predictions. Furthermore, the currently available multimodal datasets for keyword extraction task are particularly scarce, further hindering the progress of research on multimodal keyword extraction task. Therefore, this study constructs a multimodal dataset of academic paper consisting of 1000 samples (918 from SPIE and 82 from VideoLectures), with each sample containing paper text, images, audio, and keywords. However, since the VideoLectures website is currently inaccessible for retrieving multimodal academic paper data, only the SPIE-related data is displayed.
 ## Directory structure
