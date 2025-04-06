@@ -68,4 +68,4 @@ At this point, the scraper can further parse the page's HTML, extract the paper'
 ## Citation
 Please cite the following paper if you use this code and dataset in your work.
 
->Zhang, J., Yan, X., Xiang, Y., Zhang, Y., & Zhang, C. (2024). Building a Multimodal Dataset of Academic Paper for Keyword Extraction. Proceedings of the Association for Information Science and Technology, 61(1), 435-446.  [[doi]](https://doi.org/10.1002/pra2.1040)  [[Dataset & Source Code]](https://github.com/zzjy01/AKE.git) 
+>Zhang, J., Yan, X., Xiang, Y., Zhang, Y., Zhang, C\*. (2024). Building a Multimodal Dataset of Academic Paper for Keyword Extraction. ***Proceedings of the Association for Information Science and Technology***, 61(1), 435-446.  [[doi]](https://doi.org/10.1002/pra2.1040)  [[Dataset & Source Code]](https://github.com/zzjy01/AKE.git) 
