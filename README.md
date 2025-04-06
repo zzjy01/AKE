@@ -11,8 +11,8 @@ AKE                                                              Root directory
 │       ├─   Web_crawler_video_generation.py                     Download academic conference videos
 │       └─   VideoFrame_Extraction_Slideshow_Merge.py            Extract slides from the video and switch time nodes
 └─  Data
-         ├─   SPIE_data.xlsx                                     Store SPIE data information
-         └─   title{index}
+        ├─   SPIE_data.xlsx                                     Store SPIE data information
+        └─   title{index}
                   ├─  GenerateVideoSource.mpd                    The website retrieves the mpd file of the video
                   ├─  GenerateVideoSource_adjust.mpd             Modify and adjust the mpd file
                   ├─  video_segments                             Multiple video segments
